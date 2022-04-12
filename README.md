@@ -6,3 +6,4 @@
 [WHACK A MOLE !](https://github.com/Bert0ne/Whack-a-mole)                    
 [Hangman](https://github.com/Bert0ne/Hangman-Game)                    
 [Simple puzzle ](https://github.com/Bert0ne/Sliding-Puzzle-Game-Javascript)                    
+[Mine Sweepee](https://bert0ne.github.io/Mine-Sweeper/)                    
